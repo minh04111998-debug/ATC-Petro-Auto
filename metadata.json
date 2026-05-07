@@ -1,0 +1,7 @@
+{
+  "name": "ATC Petro Prototype",
+  "description": "A high-fidelity interactive prototype for a gas station fuel app with pumping simulation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
